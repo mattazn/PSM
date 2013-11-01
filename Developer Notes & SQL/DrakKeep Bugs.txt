@@ -1,0 +1,31 @@
+DrakTharon Keep Bugs
+
+5 man heroic
+-----Trash------
+Risen Drakkari Warrior
+	Only casting Ghost Strike
+	Does not Cast Crush ARmor
+	Does not cast Heal
+Scourge Reanimator
+	Only casts Frost Bolt
+	Not casting Cripple
+	Not casting Unholy Frenzy
+	Not casting Disguise
+Risen Drakkari Soulmage
+	Not casting Heal
+Risen Drakkari Bat Rider
+	Sometimes spawned in wrong place
+	Not Spawned on the Bat all the time
+	Becomes untargetable when you enter combat (atleast the one bugged spawn in hall of departures does)
+Flesheating Ghoul
+	Not Casting Pierce Armor
+
+
+
+
+--Bosses--
+TrollGore
+	Spams "You have gone, me gonna eat you!" 
+
+
+

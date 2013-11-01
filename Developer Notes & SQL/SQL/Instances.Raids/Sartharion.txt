@@ -1,0 +1,40 @@
+-- Correct Sartharion Twilight Eggs for 3D Encounter
+UPDATE creature_template
+SET minlevel=80,maxlevel=80,exp=2,ScriptName='mob_twilight_eggs'
+WHERE entry=31204;
+
+-- Fire Cyclones
+UPDATE creature_template
+SET InhabitType = 4, flags_extra=128
+WHERE entry = 30648;
+
+UPDATE creature
+SET spawndist = 5, MovementType = 1
+WHERE id = 30648;
+
+-- Twilight Portal
+UPDATE gameobject_template
+SET ScriptName="go_twilight_portal"
+WHERE entry=193988;
+
+-- Sartharion Twilight Whelps fix up
+UPDATE creature_template
+SET minlevel=81,maxlevel=81,mindmg=464,maxdmg=604,attackpower=708, Health_mod=11.8654
+WHERE entry=31214;
+
+UPDATE creature_template
+SET Health_mod=28.4771
+WHERE entry=31548;
+
+-- Fix for Berserk
+DELETE FROM `conditions` WHERE `SourceTypeOrReferenceId`=13 AND `SourceEntry`=61632;
+INSERT INTO `conditions` (`SourceTypeOrReferenceId`, `SourceGroup`, `SourceEntry`, `SourceId`, `ElseGroup`, `ConditionTypeOrReference`, `ConditionTarget`, `ConditionValue1`, `ConditionValue2`, `ConditionValue3`, `NegativeCondition`, `ErrorTextId`, `ScriptName`, `Comment`) VALUES 
+(13, 7, 61632, 0, 0, 31, 0, 3, 30449, 0, 0, 0, '', 'Sartharion Berserk - Only hit Tenebron, Shadron & Vesperon, Sartharion'),
+(13, 7, 61632, 0, 1, 31, 0, 3, 30451, 0, 0, 0, '', 'Sartharion Berserk - Only hit Tenebron, Shadron & Vesperon, Sartharion'),
+(13, 7, 61632, 0, 2, 31, 0, 3, 30452, 0, 0, 0, '', 'Sartharion Berserk - Only hit Tenebron, Shadron & Vesperon, Sartharion'),
+(13, 7, 61632, 0, 3, 31, 0, 3, 28860, 0, 0, 0, '', 'Sartharion Berserk - Only hit Tenebron, Shadron & Vesperon, Sartharion');
+
+-- Prevent triggers from attacking players
+UPDATE creature_template
+SET flags_extra=130
+WHERE entry IN (31138, 31550);

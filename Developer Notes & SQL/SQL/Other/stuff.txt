@@ -1,0 +1,14 @@
+Shade of Naxxramas
+Razuvious 10 man has better control of adds.
+Necro Knights??
+4HM Chest works
+Stalg and Fueggen switch works
+Polarity SHift works
+Gluth eats zombies and heals
+
+// Bridge
+4682.472f, 2877.095f, 387.763f, 0.146f,
+4697.750f, 2855.129f, 387.856f, 0.146f,
+
+
+Hateful strike can't crit

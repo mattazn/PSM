@@ -1,0 +1,15 @@
+UPDATE creature_template
+SET dmg_multiplier=8
+WHERE entry=31214;
+
+UPDATE creature_template
+SET dmg_multiplier=14
+WHERE entry=31548;
+
+UPDATE creature_template
+SET dmg_multiplier=8
+WHERE entry=30643;
+
+UPDATE creature_template
+SET dmg_multiplier=14
+WHERE entry=31317;

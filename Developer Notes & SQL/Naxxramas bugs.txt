@@ -1,0 +1,60 @@
+[General]
+Naxxramas portals do not work.
+Can use Sapphs portal without clearing all wings.
+Trash is missing equipment on 25 man.
+You can blink through KTs door.
+
+[Patchwerk]
+Needs a melee damage boost.
+
+[Instructo Razuvious 25 Man]
+Needs to hit fully geared plate for 40, 000.
+Jagged Knife is missing its visual.
+
+[Gothik 25 Man]
+Death Plague from Trash should stack.
+Waves are off according to DBM.
+Damage is too low on Death Knights.
+Death Knights not Intercept or shadowmark.
+Spectral Death Knights not whirlwinding
+Spectral Riders didnt have Unholy Aura.
+None of them had weapons.
+He runs through the wall sometimes.
+
+[Four Horsemen 25 man]
+Thane Korth'azz is missing a weapon.
+Melee damage needs increase on Thane Korth'azz.
+Baron Rivendare needs a weapon.
+Baron Rivendare isnt melee swinging.
+Chest isn't usable.
+
+[Gluth 25 man]
+"spots a nearby zombie to devour!"
+Decimate only brought zombies to 40 percent not 5.
+
+[Anu'Rekhan 25]  
+Add's DoT does 100 more damage than it should.
+Impale doesn't do enough damage
+Insect Swarm seems to do high damage on 10 player mode.
+Disable anti cheat
+
+[Maexxna]
+Only one type of necrotic poison should be applied.
+Spiders should despawn on her death.
+Needs a melee damage boost.
+
+[Sapphiron]
+Life Drain doesn't heal Sapph.
+
+[Kel'Thuzad]
+Trash is all kinds of fucked up.
+KT can be kited.
+
+[Trash]
+Skeletal Smith's Crush Armor spell doesn't stack
+It should stack upto 10 times
+Cavalier has a messed up summon.  
+He is starting on a horse but summoning another of himself that doesn't move.
+Living Monstrosity's lightning totems can move and auto attack for approximatley 3 damage per hit
+Shade of Naxxramas Portal of Shadows does not spawn any creatures
+Diminshing return on Strangulate for death knight cavalier

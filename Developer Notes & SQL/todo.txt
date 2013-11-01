@@ -1,0 +1,12 @@
+Here is a todo list for all developers to kind of find something to do
+in the meantime while there are no bug reports.
+
+[14/01/2013]
+Abyss Crystal shouldnt be disenchanted from blues.
+Crier locations are incorrect.
+
+[Assigned to Spenner]
+Fix up way points in the below instances, using OLD DB as an example.
+Halls of Stone - Percent Complete [0%]
+Halls of Lightning - Percent Complete [0%]
+Utgarde Keep - Percent Complete [0%]

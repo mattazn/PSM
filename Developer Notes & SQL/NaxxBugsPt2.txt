@@ -1,0 +1,8 @@
+4Horseman, the Wipe mechanic if noone is nearby abilities from the back 2 is threat baced instead of proximity based possibly
+
+Heigan
+	Doesn't reset properly
+	After Phase 2, when it goes back into Phase 1 he doesn't move
+
+Sludge Belcher respawn rate too fast?  The pudges before patchwerk
+

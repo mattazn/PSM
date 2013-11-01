@@ -1,0 +1,1 @@
+INSERT INTO event_scripts (id, delay, command, datalong, datalong2, dataint, x, y, z, o) VALUES (19576, 0, 5, 59, 768, 0, 0, 0, 0, 0);
